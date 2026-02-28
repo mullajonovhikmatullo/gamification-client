@@ -1,0 +1,1 @@
+../../features/admin/components/ui/tabs.tsx

@@ -1,0 +1,1 @@
+../../features/admin/components/ui/aspect-ratio.tsx
